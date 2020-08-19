@@ -26,6 +26,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to share my knowledge and can talk for hours on Psychology
 
 
+### Connect with me:
+
+[<img align="left" alt="sidharathkhanna29.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="sidharathkhanna29 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="sidharathkhanna29 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sidharathkhanna29 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+<br />
+
 [website]: https://sidharathkhanna29.github.io/
 
 [sid_gtihub_code]: https://github.com/sidharathkhanna29
