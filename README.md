@@ -26,6 +26,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to share my knowledge and can talk for hours on Psychology
 
 
+<!--
+### Spotify Playing 🎧
+[<img src="https://now-playing-sidharathkhanna29.vercel.app/api/spotify-playing" alt="sidharathkhanna29 Spotify Playing" width="350" />](https://open.spotify.com/user/31ayx5ihby6bpi7ktmgvjazrmxni)
+##https://www.youtube.com/watch?v=n6d4KHSKqGk 
+-->
+
+
 ### Connect with me:
 
 [<img align="left" alt="sidharathkhanna29.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -56,6 +63,14 @@ Here are some ideas to get you started:
 <br />
 
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="sidharathkhanna29's Github Stats" src="https://github-readme-stats.sidharathkhanna29.vercel.app/api?username=sidharathkhanna29&show_icons=true&hide_border=true&count_private=true&theme=dark" />
+
+[![Top Langs](https://github-readme-stats.sidharathkhanna29.vercel.app/api/top-langs/?username=sidharathkhanna29)](https://github.com/sidharathkhanna29/github-readme-stats)
+
+</details>
 
 
 [website]: https://sidharathkhanna29.github.io/
