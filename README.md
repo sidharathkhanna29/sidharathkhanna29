@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## I'm a Programmer & Developer !!
 
-- 🔭 I’m currently working on [AWS Cloud Services][aws]!
+- 🔭 I’m currently working on Python!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Work on some interesting cloud projects
@@ -94,5 +94,3 @@ Here are some ideas to get you started:
 [quora]: https://www.quora.com/profile/Sidharath-Khanna
 
 [react]: https://www.codecademy.com/profiles/sidharathkhanna
-
-[aws]: https://aws.amazon.com/
