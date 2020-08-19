@@ -41,7 +41,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="sidharathkhanna29 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sidharathkhanna29 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="sidharathkhanna29 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-
+[<img align="left" alt="sidharathkhanna29 | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][quora]
+[<img align="left" alt="sidharathkhanna29 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 <br />
@@ -87,5 +88,9 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/sidharathkhanna29/
 
 [medium]: https://medium.com/@khannasidharath
+
+[Facebook]: https://www.facebook.com/sidharath.khanna
+
+[quora]: https://www.quora.com/profile/Sidharath-Khanna
 
 [aws]: https://aws.amazon.com/
