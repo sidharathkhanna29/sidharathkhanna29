@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm Sidharath Khanna - aka [Sid][website] 👋
 
 [![website](https://img.shields.io/website?label=sidharathkhanna29.com&style=for-the-badge&url=https://sidharathkhanna29.github.io/)](https://sidharathkhanna29.github.io/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/sidharathkhanna?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsidharathkhanna&screen_name=khannasidharath)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sidharathkhanna?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsidharathkhanna&screen_name=sidharathkhanna)
 
 
 ## I'm a Programmer & Developer !!
