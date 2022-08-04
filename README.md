@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## I'm a Programmer & Developer !!
 
-- 🔭 I’m currently working on Python!
+- 🔭 I’m currently working on React!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Work on some interesting cloud projects
