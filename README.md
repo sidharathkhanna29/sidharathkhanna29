@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other React developers
 - 🤔 I’m looking for help with finding projects to work on
-- 🥅 2020 Goals: Work on some interesting cloud projects
+- 🥅 2022 Goals: Work on some interesting cloud projects
 - ⚡ Fun fact: I love to share my knowledge and can talk for hours on Psychology
 
 
