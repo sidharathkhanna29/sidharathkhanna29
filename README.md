@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 
 ## I'm a Programmer & Developer !!
 
-- 🔭 I’m currently working on React!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other React developers
-- 🤔 I’m looking for help with finding projects to work on
-- 🥅 2022 Goals: Work on some interesting cloud projects
-- ⚡ Fun fact: I love to share my knowledge and can talk for hours on Psychology
+- 🔭 I’m currently working on API's!
+- 🌱 I’m currently learning FrontEnd 🤣
+- 👯 I’m looking to collaborate with other Web developers
+- 🤔 I’m looking for help with finding projects to work on 
+- 🥅 2024 Goals: Work on some interesting real-time projects
+- ⚡ Fun fact: I love to share my knowledge and can talk for hours about Psychology
 
 
 <!--
