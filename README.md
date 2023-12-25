@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="sidharathkhanna29's Github Stats" src="https://github-readme-stats.sidharathkhanna29.vercel.app/api?username=sidharathkhanna29&show_icons=true&hide_border=true&count_private=true&theme=dark" />
+  <img align="left" alt="sidharathkhanna29's Github Stats" src="https://github-readme-stats.sidharathkhanna29.vercel.app/api?username=sidharathkhanna29&show_icons=true&hide_border=true&count_private=true&theme=&show_icons=true&theme=merko" />
 
 [![Top Langs](https://github-readme-stats.sidharathkhanna29.vercel.app/api/top-langs/?username=sidharathkhanna29)](https://github.com/sidharathkhanna29/github-readme-stats)
 
